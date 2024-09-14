@@ -56,6 +56,10 @@ body > main article {
     margin: auto;
 }
 
+body > main > div > aside > section > nav > a {
+    text-decoration: none;
+}
+
 #main-content {
     color: black;
     display: flex;
@@ -91,6 +95,11 @@ form {
 
 h2 {
     text-align: center;
+    background-color: #FFF2E1;
+}
+
+form {
+    background-color: #FFF2E1;
 }
 
 body > footer {
