@@ -60,12 +60,13 @@ body > header > nav > ul {
     text-align: left;
 }
 
+
 body > main article {
     width: 80%;
     margin: auto;
 }
 
-body > main > div > aside > section > nav > a {
+body > main > div > aside > section > nav > ul > li > a {
     text-decoration: none;
 }
 
