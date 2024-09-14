@@ -67,6 +67,14 @@ body > main article {
     flex-wrap: wrap;
 }
 
+#pet1 {
+    color: #A79277;
+    border: 1px solid #A79277;
+    padding: 5px;
+    border-radius: 10%;
+    text-decoration: none;
+}
+
 #main-content > div {
     width: 60%;
 }
