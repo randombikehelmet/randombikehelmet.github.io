@@ -62,6 +62,12 @@ body > main article {
     justify-content: space-around;
 }
 
+#fosterpets {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
 body > main > #fosterpets {
     display: flex;
     flex-wrap: wrap;
@@ -83,6 +89,7 @@ h2 {
 body > footer {
     background-color: #EAD8C0;
     display: flex;
+    color: #D1BB9E
 }
 
 img {
