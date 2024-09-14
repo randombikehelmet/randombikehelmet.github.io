@@ -67,15 +67,18 @@ body > main article {
     flex-wrap: wrap;
 }
 
-.pet1 {
-    border: 1px solid #A79277;
-    border-radius: 10%;
-    padding:5px;
-    text-decoration: none;
+.box {
+    border: 2px solid black;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
 }
-
-.pet1 > ul {
-    text-decoration: none;
+.box img {
+    max-width: 100%;
+    height: auto;
+}
+.box p {
+    margin-top: 10px;
 }
 
 #main-content > div {
