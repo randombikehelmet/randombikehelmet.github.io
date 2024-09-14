@@ -68,6 +68,11 @@ body > main article {
     justify-content: space-between;
 }
 
+.box > nav > ul > a {
+    text-decoration: none;
+    list-style: none;
+}
+
 body > main > #fosterpets {
     display: flex;
     flex-wrap: wrap;
@@ -118,6 +123,6 @@ img {
 }
 
 #footer-ul > div > li > a {
-    color: #D1BB9E;
+    color: #A79277;
     text-decoration: none;
 }
