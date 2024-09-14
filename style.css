@@ -10,10 +10,10 @@ body {
     font-family: "Fredoka One", sans-serif;
     width: 16%;
     text-shadow:
-    1px 1px 0px black,
-    -1px 1px 0px black,
-    1px -1px 0px black,
-    -1px -1px 0px black;
+    1px 1px 0px #A79277,
+    -1px 1px 0px #A79277,
+    1px -1px 0px #A79277,
+    -1px -1px 0px #A79277;
 }
 
 ul {
@@ -21,8 +21,8 @@ ul {
 }
 
 body > header {
-    background-color: #F0A8D0;
-    color: #99ff;
+    background-color: #FFF2E1;
+    color: #D1BB9E;
     display: flex;
     height: 12vh;
     align-items: center;
@@ -44,10 +44,10 @@ body > header > nav > ul {
 }
 
 .navbutton {
-    color: white;
+    color: #A79277;
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
+    border: 1px solid #A79277;
     border-radius: 10%;
 }
 
@@ -74,7 +74,7 @@ h2 {
 }
 
 body > footer {
-    background-color: orange;
+    background-color: #FFF2E1;
     display: flex;
 }
 
