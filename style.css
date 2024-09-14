@@ -57,6 +57,7 @@ body > main article {
 }
 
 #main-content {
+    color: black;
     display: flex;
     justify-content: space-around;
 }
