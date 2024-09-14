@@ -62,7 +62,7 @@ body > main article {
     justify-content: space-around;
 }
 
-#fosterpets {
+body > main > #fosterpets {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
