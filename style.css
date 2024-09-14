@@ -68,7 +68,7 @@ body > main article {
     justify-content: space-between;
 }
 
-main > #fosterpets > .box > nav > ul > a {
+main > #main-content > div > article > #fosterpets > .box > nav > ul {
     text-decoration: none;
     list-style: none;
 }
