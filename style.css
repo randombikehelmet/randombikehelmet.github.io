@@ -98,12 +98,14 @@ h2 {
     background-color: #FFF2E1;
 }
 
-hr {
+#hr {
     background-color: #FFF2E1;
+    color: #A79277;
 }
 
-form {
+#form {
     background-color: #FFF2E1;
+    color: #A79277
 }
 
 body > footer {
