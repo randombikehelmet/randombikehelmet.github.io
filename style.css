@@ -66,9 +66,11 @@ body > main > #fosterpets {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    background-color: #EAD8C0 ;
+    color: #A79277;
 }
 
-body > main > #fosterpets > nav > ul {
+body > main > #fosterpets > nav > ul > a {
     text-align: left;
     text-decoration: none;
 }
