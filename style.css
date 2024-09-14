@@ -68,6 +68,11 @@ body > main > #fosterpets {
     justify-content: space-between;
 }
 
+body > main > #fosterpets > nav > ul {
+    text-align: left;
+    text-decoration: none;
+}
+
 #main-content > div {
     width: 60%;
 }
