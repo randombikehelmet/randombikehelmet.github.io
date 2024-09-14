@@ -67,20 +67,6 @@ body > main article {
     flex-wrap: wrap;
 }
 
-.box {
-    border: 2px solid black;
-    padding: 20px;
-    display: inline-block;
-    text-align: center;
-}
-.box img {
-    max-width: 100%;
-    height: auto;
-}
-.box p {
-    margin-top: 10px;
-}
-
 #main-content > div {
     width: 60%;
 }
