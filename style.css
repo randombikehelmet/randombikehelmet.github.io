@@ -92,6 +92,7 @@ main > #main-content > div > article > #fosterpets > .box > nav > ul > a {
 
 main > #main-content > div > article > #fosterpets > .box > nav {
     text-align: left;
+    text-decoration: none;
 }
 
 body > main > #fosterpets {
@@ -112,6 +113,8 @@ h2 {
     text-align: center;
     background-color: #FFF2E1;
     padding: 15px;
+    margin: 0px;
+    width: 15%;
 }
 
 
@@ -136,7 +139,7 @@ img {
 }
 
 #footer-logo {
-    background-color: #D1BB9E;
+    background-color: #EAD8C0;
     margin: 0px;
     padding: 8px;
     font-family: "Fredoka One", sans-serif;
