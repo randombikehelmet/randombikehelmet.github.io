@@ -20,6 +20,10 @@ ul {
     margin: 0px;
 }
 
+br {
+    background-color: #FFF2E1;
+}
+
 body > header {
     background-color: #EAD8C0;
     color: #D1BB9E;
