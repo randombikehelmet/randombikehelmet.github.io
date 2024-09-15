@@ -90,6 +90,10 @@ main > #main-content > div > article > #fosterpets > .box > nav > ul > a {
     text-align: left;
 }
 
+main > #main-content > div > article > #fosterpets > .box > nav {
+    text-align: left;
+}
+
 body > main > #fosterpets {
     display: flex;
     flex-wrap: wrap;
@@ -132,6 +136,7 @@ img {
 }
 
 #footer-logo {
+    background-color: #D1BB9E;
     margin: 0px;
     padding: 8px;
     font-family: "Fredoka One", sans-serif;
